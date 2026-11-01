@@ -1,0 +1,10 @@
+node_modules/
+.vercel/
+.tanstack/
+dist/
+*.local
+.env*
+.deploy-manifest.json
+.uploaded-shas.txt
+.upload.log
+screenshots/
